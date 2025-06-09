@@ -15,7 +15,7 @@ This project is a browser-based implementation of the classic 2-player game **Ti
 # 📁 Folder Structure
 
 tic-tac-toe/
-├── index.html # Main HTML file
+├── game.html # Main HTML file
 ├── style.css # Styling file
 └── app.js # JavaScript logic
 ## 🙌 Acknowledgements
